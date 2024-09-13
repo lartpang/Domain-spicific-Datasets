@@ -7,6 +7,10 @@
 - [**DeepFish**] A realistic fish-habitat dataset to evaluate algorithms for underwater visual analysis, Scientific Reports 2020, [Paper](https://doi.org/10.1038/s41598-020-71639-x), [Project](https://alzayats.github.io/DeepFish/)
 - A Large-Scale Dataset for Fish Segmentation and Classification, IEEE ASYU 2020, [Paper](https://ieeexplore.ieee.org/abstract/document/9259867), [Dataset (Kaggle)](https://www.kaggle.com/datasets/crowww/a-large-scale-fish-dataset)
 
+## Food
+
+- [**MetaFood3D**] MetaFood3D: Large 3D Food Object Dataset with Nutrition Values, [arXiv:2409.01966](https://arxiv.org/abs/2409.01966)
+
 ---
 
 > [!NOTE]
